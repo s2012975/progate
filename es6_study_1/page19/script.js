@@ -12,7 +12,7 @@ switch (rank) {
     break;
   // defaultの処理を追加してください
   default:
-    console.log("メダルはありません");
-    break;
+  console.log("メダルはありません");
+  break;
   
 }
